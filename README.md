@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/99718552?s=400&u=bdd54a495330009cd5c92d72954a30a1065a5b51&v=4" alt="Your Name's Profile Image" width="400">
   </p> 
   
-  🌟 Passionate IT student | 🚀 Coding enthusiast | 🌱 Tech explorer<br><br>👨‍💻 Fluent in Java & C | 📱 Exploring Android | 💡 Problem solver<br><br>✉️ Reach out at ravibalan79@gmail.com |  Let's connect!<br>
+  🌟 Passionate CYBER SECURITY student | 🚀 Coding enthusiast | 🌱 Tech explorer<br><br>👨‍💻 Fluent in Java & C | 📱 Exploring Android | 💡 Problem solver<br><br>✉️ Reach out at ravibalan79@gmail.com |  Let's connect!<br>
   
   
   ## 🌐 Socials:
