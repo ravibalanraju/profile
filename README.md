@@ -14,7 +14,8 @@
   ![](https://github-readme-stats.vercel.app/api?username=RAVIBALANRAJU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=RAVIBALANRAJU&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIBALANRAJU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
+  ##    Github 
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1690412" style='border:none;'></iframe>
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=RAVIBALANRAJU&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
